@@ -184,7 +184,7 @@ td.description {
 td.income {
     color: #12a454;
 }
-td.expanse {
+td.expense {
     color: #e92929;
 }
 
@@ -236,7 +236,7 @@ input {
 .input-group {
     margin-top: 0.8rem;
 }
-.input-group small {
+.input-group .help {
     opacity: 0.4;
 }
 .input-group.actions{
